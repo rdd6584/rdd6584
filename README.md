@@ -9,6 +9,12 @@ To be honest, I'm interested in almost everything that surrounds me.</br></br>
 Feel free to contact me. :email:</br>
 Maybe, We will be good friends or co-workers. </br>
 
+## Career 🚶
+- 🏫 Incheon National University (2015.03 ~ 2021.08)</br>
+- 🚼 Samsung software membership (2019.09 ~ 2021.09)</br>
+- 🏢 Samsung Research (2021.09 ~ ) 🥇 Certified Expert Programmer
+- <a href="https://blog.naver.com/rdd573/221349623322">Achievements</a>
+
 ## Stack 📚
 
 ### Algorithm

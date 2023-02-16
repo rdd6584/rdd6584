@@ -1,8 +1,7 @@
 ## Hi 👋
 I'm <b>Ilwoo Kwon</b>.</br>
-I love philosophy, mathmatics, study, nature and lying in bed all day.
 
-I'm interested in, <b>algorithm problem solving</b>, <b>computer vision(vislam)</b>,</br>
+I'm interested in, <b>algorithm problem solving</b>
 and I'm also interested in, <b>developing platform and application</b>.</br>
 
 To be honest, I'm interested in almost everything that surrounds me.</br></br>
